@@ -32,8 +32,11 @@ body {
     padding: 20px;
 }
 
-.about-page {
+.index-page {
     background-image: url('earth.jpg');
-    color: #000;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white; /* Change text color to white */
     padding: 50px;
 }
